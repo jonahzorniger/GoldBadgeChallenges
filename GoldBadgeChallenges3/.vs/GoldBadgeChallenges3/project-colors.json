@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9dc9ed6-fc70-49b6-99b3-88796c306729": {
+      "ProjectGuid": "d9dc9ed6-fc70-49b6-99b3-88796c306729",
+      "DisplayName": "BadgeDatabase",
+      "ColorIndex": 0
+    },
+    "4b907a9a-7087-44d0-9625-a59f527d6648": {
+      "ProjectGuid": "4b907a9a-7087-44d0-9625-a59f527d6648",
+      "DisplayName": "Program_UI",
+      "ColorIndex": 1
+    },
+    "70676080-adf0-4359-947d-c8ba48c99698": {
+      "ProjectGuid": "70676080-adf0-4359-947d-c8ba48c99698",
+      "DisplayName": "ObjectClass",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a6446fd3-94da-4e04-a0e3-10f9e7a5879b": {
+      "ProjectGuid": "a6446fd3-94da-4e04-a0e3-10f9e7a5879b",
+      "DisplayName": "01_KomodoCafe.Repository",
+      "ColorIndex": 0
+    },
+    "a5ef896a-d411-40cb-afba-ff8d83a3fdc8": {
+      "ProjectGuid": "a5ef896a-d411-40cb-afba-ff8d83a3fdc8",
+      "DisplayName": "01_KomodoCafe.Tests",
+      "ColorIndex": 1
+    },
+    "d1215197-cd37-4e00-9f86-12b2c5a04916": {
+      "ProjectGuid": "d1215197-cd37-4e00-9f86-12b2c5a04916",
+      "DisplayName": "01_KomodoCafe.UI",
+      "ColorIndex": 2
+    },
+    "cc3c7f95-1f94-4fbd-9648-d0d109493b70": {
+      "ProjectGuid": "cc3c7f95-1f94-4fbd-9648-d0d109493b70",
+      "DisplayName": "MenuItemClasses",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

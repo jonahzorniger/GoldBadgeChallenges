@@ -1,0 +1,10 @@
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.Repository\bin\Debug\01_KomodoCafe.Repository.dll.config
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.Repository\bin\Debug\01_KomodoCafe.Repository.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.Repository\bin\Debug\01_KomodoCafe.Repository.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.Repository\bin\Debug\MenuItemClasses.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.Repository\bin\Debug\MenuItemClasses.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.Repository\obj\Debug\01_KomodoCafe.Repository.csproj.AssemblyReference.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.Repository\obj\Debug\01_KomodoCafe.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.Repository\obj\Debug\01_KomodoCafe.Repository.csproj.CopyComplete
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.Repository\obj\Debug\01_KomodoCafe.Repository.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\01_KomodoCafe.Repository\obj\Debug\01_KomodoCafe.Repository.pdb

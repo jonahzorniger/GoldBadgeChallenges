@@ -1,0 +1,9 @@
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges3\Program_UI\bin\Debug\Program_UI.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges3\Program_UI\bin\Debug\Program_UI.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges3\Program_UI\bin\Debug\ObjectClass.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges3\Program_UI\bin\Debug\ObjectClass.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges3\Program_UI\obj\Debug\BadgeDatabase.csproj.AssemblyReference.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges3\Program_UI\obj\Debug\BadgeDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges3\Program_UI\obj\Debug\BadgeDatabase.csproj.CopyComplete
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges3\Program_UI\obj\Debug\Program_UI.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges3\Program_UI\obj\Debug\Program_UI.pdb

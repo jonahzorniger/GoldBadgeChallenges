@@ -1,0 +1,6 @@
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\MenuItemClasses\bin\Debug\MenuItemClasses.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\MenuItemClasses\bin\Debug\MenuItemClasses.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\MenuItemClasses\obj\Debug\MenuItemClasses.csproj.CoreCompileInputs.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\MenuItemClasses\obj\Debug\MenuItemClasses.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\MenuItemClasses\obj\Debug\MenuItemClasses.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges\MenuItemClasses\obj\Debug\MenuItemClasses.csproj.AssemblyReference.cache

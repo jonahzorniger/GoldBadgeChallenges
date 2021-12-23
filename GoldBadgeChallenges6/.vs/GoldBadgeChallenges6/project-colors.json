@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f2533442-6dd9-4dd3-bb5b-a5be350e5803": {
+      "ProjectGuid": "f2533442-6dd9-4dd3-bb5b-a5be350e5803",
+      "DisplayName": "_01_CarDatabases",
+      "ColorIndex": 0
+    },
+    "c1ede757-1033-46f0-92c8-7c02dc12444b": {
+      "ProjectGuid": "c1ede757-1033-46f0-92c8-7c02dc12444b",
+      "DisplayName": "CarObject",
+      "ColorIndex": 1
+    },
+    "338f4612-bf06-4055-91a6-eea20a0aeffa": {
+      "ProjectGuid": "338f4612-bf06-4055-91a6-eea20a0aeffa",
+      "DisplayName": "CarDatabaseTests",
+      "ColorIndex": 2
+    },
+    "021be8fa-2b36-4dbe-9f5d-34ad998eeead": {
+      "ProjectGuid": "021be8fa-2b36-4dbe-9f5d-34ad998eeead",
+      "DisplayName": "Program_UI",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

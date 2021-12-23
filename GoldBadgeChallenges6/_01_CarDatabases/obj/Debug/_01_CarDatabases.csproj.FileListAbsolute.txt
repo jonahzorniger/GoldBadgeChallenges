@@ -1,0 +1,9 @@
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges6\_01_CarDatabases\bin\Debug\_01_CarDatabases.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges6\_01_CarDatabases\bin\Debug\_01_CarDatabases.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges6\_01_CarDatabases\bin\Debug\Car.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges6\_01_CarDatabases\bin\Debug\Car.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges6\_01_CarDatabases\obj\Debug\_01_CarDatabases.csproj.AssemblyReference.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges6\_01_CarDatabases\obj\Debug\_01_CarDatabases.csproj.CoreCompileInputs.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges6\_01_CarDatabases\obj\Debug\_01_CarDatabases.csproj.CopyComplete
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges6\_01_CarDatabases\obj\Debug\_01_CarDatabases.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges6\_01_CarDatabases\obj\Debug\_01_CarDatabases.pdb

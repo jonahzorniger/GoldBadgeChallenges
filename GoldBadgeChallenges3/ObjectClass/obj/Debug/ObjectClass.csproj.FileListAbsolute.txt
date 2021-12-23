@@ -1,0 +1,6 @@
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges3\ObjectClass\bin\Debug\ObjectClass.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges3\ObjectClass\bin\Debug\ObjectClass.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges3\ObjectClass\obj\Debug\ObjectClass.csproj.AssemblyReference.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges3\ObjectClass\obj\Debug\ObjectClass.csproj.CoreCompileInputs.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges3\ObjectClass\obj\Debug\ObjectClass.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\GoldBadgeChallenges3\ObjectClass\obj\Debug\ObjectClass.pdb
